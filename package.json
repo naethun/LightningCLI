@@ -1,0 +1,49 @@
+{
+  "name": "lightningnft",
+  "version": "0.0.128",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js",
+    "nft": "node src/scripts/nft-modules/NFT-INIT.js",
+    "incVersion": "npm version patch --no-git-tag-version && node version.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/naethun/LightningCLI.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/naethun/LightningCLI/issues"
+  },
+  "homepage": "https://github.com/naethun/LightningCLI#readme",
+  "dependencies": {
+    "@ethersproject/contracts": "^5.6.2",
+    "@jokzyz/inquirer": "^9.0.1",
+    "@project-serum/anchor": "^0.18.2",
+    "@solana/buffer-layout": "^4.0.0",
+    "@solana/spl-token": "^0.2.0",
+    "@solana/web3.js": "^1.33.0",
+    "2captcha": "^3.0.4",
+    "array-splitter-chunks": "^1.0.2",
+    "axios": "^0.27.2",
+    "base58-js": "^1.0.4",
+    "chrome-paths": "^1.0.1",
+    "csv": "^6.1.4",
+    "csv-parser": "^3.0.0",
+    "dotenv": "^16.0.1",
+    "ethers": "^5.6.9",
+    "fs": "^0.0.1-security",
+    "fs.promises": "^0.1.2",
+    "https-proxy-agent": "^5.0.1",
+    "image-to-base64": "^2.2.0",
+    "node-fetch": "^3.2.6",
+    "puppeteer": "^15.3.2",
+    "puppeteer-extra": "^3.3.4",
+    "puppeteer-extra-plugin-stealth": "^2.11.0",
+    "utf8": "^3.0.0",
+    "ws": "^8.8.1"
+  }
+}
