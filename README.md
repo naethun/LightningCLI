@@ -1,4 +1,4 @@
-# LightningCLI
+# RedactedCLI
 A software that automated tasks for our users on Discord and across the NFT space. We built a community of 2,600+ members throughout the whole process.
 
 Built along side of:
@@ -10,5 +10,8 @@ Built along side of:
 - Multi-Threaded CandyMachine NFT Minter: User set a NFT mint they wanted, we processed the transaction within a second as soon as it went live.
 - Discord Mass Server Joiner, Auto link clicker, and much much more
 
-<img width="1675" alt="l1" src="https://github.com/user-attachments/assets/a19a4c19-416a-425c-aead-4970afef175f">
-<img width="1673" alt="l2" src="https://github.com/user-attachments/assets/2a0b2263-fc11-4db1-9da3-feceedcbe160">
+<img width="1680" alt="Screenshot 2024-08-07 at 5 31 49 PM" src="https://github.com/user-attachments/assets/3dbce1de-6d56-4cee-b6e6-d268708085b0">
+
+<img width="1680" alt="Screenshot 2024-08-07 at 5 32 07 PM" src="https://github.com/user-attachments/assets/cc18f02f-c1c3-47b9-96da-59d6363109ca">
+
+
