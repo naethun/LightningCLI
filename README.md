@@ -10,8 +10,8 @@ Built along side of:
 - Multi-Threaded CandyMachine NFT Minter: User set a NFT mint they wanted, we processed the transaction within a second as soon as it went live.
 - Discord Mass Server Joiner, Auto link clicker, and much much more
 
-<img width="1680" alt="Screenshot 2024-08-07 at 5 31 49 PM" src="https://github.com/user-attachments/assets/3dbce1de-6d56-4cee-b6e6-d268708085b0">
-
-<img width="1680" alt="Screenshot 2024-08-07 at 5 32 07 PM" src="https://github.com/user-attachments/assets/cc18f02f-c1c3-47b9-96da-59d6363109ca">
 
 
+
+<img width="1680" alt="Screenshot 2024-08-07 at 5 32 07 PM" src="https://github.com/user-attachments/assets/efea0118-ff3a-457c-a36b-817df37c2ab1">
+<img width="1680" alt="Screenshot 2024-08-07 at 5 31 49 PM" src="https://github.com/user-attachments/assets/5741637e-7fb9-41ad-98f1-88227546dbfc">
